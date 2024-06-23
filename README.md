@@ -6,6 +6,7 @@ The program is based on a small Python application, which is intended to time th
 The current time is shown on an HDMI display on the Raspi.
 
 Features:
+
 through remote control
 - Start measurement
 - Stop measurement
