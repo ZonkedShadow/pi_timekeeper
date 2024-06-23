@@ -15,3 +15,10 @@ through remote control
 through the light barrier
 - Stop measurement
 
+The light barrier and the buttons on the remote control are connected via an I2C board.
+
+https://sequentmicrosystems.com/collections/all-io-cards/products/eight-hv-digital-inputs-for-raspberry-pi
+
+The corresponding Pyhton library is required.
+
+https://github.com/SequentMicrosystems/8inputs-rpi/tree/main/python
